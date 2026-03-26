@@ -29,21 +29,7 @@ This project analyzes an **IMDB movie dataset** to extract insights about trends
 2. **Exploratory Data Analysis (EDA)** – Creating visualizations to uncover trends and relationships.
 3. **Insights & Conclusions** – Extracting meaningful insights from the analysis.
 
-## How to Run
 
-1. Clone the repository:
-
-```bash
-git clone <your-repo-link>
-```
-
-2. Open the Jupyter Notebook:
-
-```bash
-jupyter notebook IMDB_Analysis.ipynb
-```
-
-3. Run all cells to reproduce the analysis.
 
 ## 📊 Final Business Insights
 
